@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start":"nodemon script.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon script.js"
   },
   "keywords": [],
   "author": "",
